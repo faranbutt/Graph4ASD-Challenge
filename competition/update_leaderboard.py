@@ -45,9 +45,9 @@ new_row = {
 if os.path.exists(leaderboard_csv):
     df = pd.read_csv(leaderboard_csv)
 
-    # 🔎 Check if username already exists
-    if username in df["username"].values:
-        raise ValueError(f"⚠️ Username '{username}' already exists in leaderboard. No update performed.")
+    # Check if username already exists
+    #if username in df["username"].values:
+    #    raise ValueError(f"Username '{username}' already exists in leaderboard. No update performed.")
 
     # If not exists → append
     df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
@@ -59,4 +59,4 @@ else:
 # Save updated leaderboard
 df.to_csv(leaderboard_csv, index=False)
 
-print(f"✅ Leaderboard updated: {leaderboard_csv}")
+print(f"Leaderboard updated: {leaderboard_csv}")
