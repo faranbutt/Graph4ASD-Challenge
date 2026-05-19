@@ -18,3 +18,4 @@ randomuser1194,2026-05-17 22:15:15 UTC,DeepSeek-v4-pro,run_01,llm-only,-,0.32894
 Murad-Hossen,2026-05-18 21:01:41 UTC,LLM_Gemini_25_Pro,run_gemini_25_pro,llm-only,GCN,0.487872,0.522876,0.521739,0.769231
 Murad-Hossen,2026-05-18 21:05:44 UTC,LLM_Gemini_25_Pro,run_gemini_25_pro,llm-only,GCN,0.487872,0.522876,0.521739,0.769231
 mubbytheback,2026-05-19 07:25:57 UTC,Kimi K 2.6,run_001,llm-only,GCN,0.640277,0.640523,0.661972,0.602564
+SanaeZR,2026-05-19 17:19:35 UTC,agent_gnn,readme_recommended_gnn_v1,llm-only,GAT/GCN when tensors are readable,0.457145,0.457516,0.468354,0.474359
