@@ -15,3 +15,10 @@ El-Ikram,2026-04-11 12:17:32 UTC,El-Ikram,run_2,human+llm,GIN,0.626877,0.627451,
 TugaAhmed,2026-04-14 18:58:50 UTC,Tuga Yousif,run1,human,GCNConv,0.441385,0.457516,0.475248,0.615385
 Murad-Hossen,2026-05-16 06:58:51 UTC,LLM_Claude_Opus_47,run_claude_47,llm-only,GraphSAGE,0.607826,0.607843,0.621622,0.589744
 randomuser1194,2026-05-17 22:15:15 UTC,DeepSeek-v4-pro,run_01,llm-only,-,0.328947,0.490196,0.0,0.0
+Murad-Hossen,2026-05-18 21:01:41 UTC,LLM_Gemini_25_Pro,run_gemini_25_pro,llm-only,GCN,0.487872,0.522876,0.521739,0.769231
+Murad-Hossen,2026-05-18 21:05:44 UTC,LLM_Gemini_25_Pro,run_gemini_25_pro,llm-only,GCN,0.487872,0.522876,0.521739,0.769231
+mubbytheback,2026-05-19 07:25:57 UTC,Kimi K 2.6,run_001,llm-only,GCN,0.640277,0.640523,0.661972,0.602564
+SanaeZR,2026-05-19 17:19:35 UTC,agent_gnn,readme_recommended_gnn_v1,llm-only,GAT/GCN when tensors are readable,0.457145,0.457516,0.468354,0.474359
+RosePY,2026-05-20 01:33:20 UTC,llm_llama33_70b,llama_api_run1,llm-only,Llama-3.3-70B-Instruct-Turbo,0.393844,0.490196,0.5,0.871795
+nohanoha295-byte,2026-05-20 05:47:17 UTC,Qwen2.5-Coder-32B-Instruct,run_1,llm-only,GCNConv,0.440471,0.529412,0.522059,0.910256
+thisisislam1,2026-05-20 09:47:10 UTC,claude_opus_4_6,001,llm-only,GAT,0.554012,0.555556,0.575758,0.487179
