@@ -16,9 +16,10 @@
 | 13 | agent_gnn | `GAT/GCN when tensors are readable` | llm-only | 0.457145 | 2026-05-19 17:19:35 UTC |
 | 14 | nour maj | `GAT` | human | 0.449074 | 2026-04-04 16:48:01 UTC |
 | 15 | Tuga Yousif | `GCNConv` | human | 0.441385 | 2026-04-14 18:58:50 UTC |
-| 16 | Tasneem Selim | `GCN` | human | 0.435957 | 2026-03-13 08:18:42 UTC |
-| 17 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
-| 18 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
-| 19 | llm_llama33_70b | `Llama-3.3-70B-Instruct-Turbo` | llm-only | 0.393844 | 2026-05-20 01:33:20 UTC |
-| 20 | samuel | `GCN` | human | 0.389111 | 2026-04-03 13:00:50 UTC |
-| 21 | DeepSeek-v4-pro | `-` | llm-only | 0.328947 | 2026-05-17 22:15:15 UTC |
+| 16 | Qwen2.5-Coder-32B-Instruct | `GCNConv` | llm-only | 0.440471 | 2026-05-20 05:47:17 UTC |
+| 17 | Tasneem Selim | `GCN` | human | 0.435957 | 2026-03-13 08:18:42 UTC |
+| 18 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
+| 19 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
+| 20 | llm_llama33_70b | `Llama-3.3-70B-Instruct-Turbo` | llm-only | 0.393844 | 2026-05-20 01:33:20 UTC |
+| 21 | samuel | `GCN` | human | 0.389111 | 2026-04-03 13:00:50 UTC |
+| 22 | DeepSeek-v4-pro | `-` | llm-only | 0.328947 | 2026-05-17 22:15:15 UTC |
