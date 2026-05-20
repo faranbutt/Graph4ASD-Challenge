@@ -21,3 +21,4 @@ mubbytheback,2026-05-19 07:25:57 UTC,Kimi K 2.6,run_001,llm-only,GCN,0.640277,0.
 SanaeZR,2026-05-19 17:19:35 UTC,agent_gnn,readme_recommended_gnn_v1,llm-only,GAT/GCN when tensors are readable,0.457145,0.457516,0.468354,0.474359
 RosePY,2026-05-20 01:33:20 UTC,llm_llama33_70b,llama_api_run1,llm-only,Llama-3.3-70B-Instruct-Turbo,0.393844,0.490196,0.5,0.871795
 nohanoha295-byte,2026-05-20 05:47:17 UTC,Qwen2.5-Coder-32B-Instruct,run_1,llm-only,GCNConv,0.440471,0.529412,0.522059,0.910256
+thisisislam1,2026-05-20 09:47:10 UTC,claude_opus_4_6,001,llm-only,GAT,0.554012,0.555556,0.575758,0.487179
