@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This repository hosts the **Graph4ASD Challenge**, a graph machine learning competition focused on **Autism Spectrum Disorder (ASD) classification** using resting-state fMRI functional connectivity data from the ABIDE dataset.
+This repository host the **Graph4ASD Challenge**, a graph machine learning competition focused on **Autism Spectrum Disorder (ASD) classification** using resting-state fMRI functional connectivity data from the ABIDE dataset.
 
 Participants must design and train **Graph Neural Network (GNN)** models to classify subjects as:
 
